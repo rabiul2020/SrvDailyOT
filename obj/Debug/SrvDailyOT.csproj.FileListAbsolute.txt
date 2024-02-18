@@ -1,0 +1,9 @@
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.Service1.resources
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.csproj.GenerateResource.cache
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.csproj.CoreCompileInputs.cache
+E:\Project\New folder\SrvDailyOT\bin\Debug\SrvDailyOT.exe.config
+E:\Project\New folder\SrvDailyOT\bin\Debug\SrvDailyOT.exe
+E:\Project\New folder\SrvDailyOT\bin\Debug\SrvDailyOT.pdb
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.exe
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.pdb
+E:\Project\New folder\SrvDailyOT\obj\Debug\SrvDailyOT.csprojAssemblyReference.cache
